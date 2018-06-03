@@ -10,7 +10,7 @@ Adjust the custom.css for additional styling. Normalize.css and Skeleton.css.
 
 ## Clone to Your Theme Directory:
 
-	$ git clone https://github.com/salcan/beyondnothing.git themes/beyondnothing
+	$ git clone https://github.com/salcan/BeyondNothing.git themes/beyondnothing
     
 	$ hugo server --theme=BeyondNothing --buildDrafts --watch
     
