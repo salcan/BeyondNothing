@@ -1,0 +1,5 @@
+name = "BeyondNothing"
+license = "MIT"
+description = "Simple Hugo theme"
+min_version = 0.14
+tags ["blog"]
