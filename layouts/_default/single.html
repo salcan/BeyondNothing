@@ -13,7 +13,7 @@
 </head>
 <body>
 
-<section id="container">
+<div class="container">
   <header role="banner">
   <h1 id="title">{{ .Title }}</h1>
   </header>
@@ -24,7 +24,6 @@
            {{ .Content }}
         </article>
   </div>
-</section>
 <aside id="meta">
     <div>
     <section>
@@ -47,12 +46,13 @@
     </div>
     <div>
         {{ with .PrevInSection }}
-          <a class="previous" href="{{.Permalink}}"> {{.Title}}</a>
+          <a class="previous" href="{{.Permalink}}"> {{.Title}}</a> |
         {{ end }}
         {{ with .NextInSection }}
           <a class="next" href="{{.Permalink}}"> {{.Title}}</a>
         {{ end }}
     </div>
+
 </aside>
 </main>
 
@@ -65,7 +65,7 @@
 		<div class="copyright">Copyright &copy; 2018</div>
 	</footer>
 
-</div>
+  </div>
 
 </body>
 </html>
