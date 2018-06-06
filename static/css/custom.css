@@ -51,7 +51,7 @@ ul {
 	padding: 8px 0px 9px 45px;
 	margin: 0px 0px 1.25em 30px;
 	line-height:1.25;
-	}	
+	}
 
 hr {
 	display: none;
@@ -66,4 +66,14 @@ hr {
   height: 1px;
   margin: 2rem 0;
   background: #ddd;
+}
+
+h2 {
+  margin-top: 20px;
+  margin-bottom: 5px;
+
+}
+
+.entry-meta {
+  margin-bottom: 50px;
 }
