@@ -1,12 +1,12 @@
 # BeyondNothing
 
-A simple Hugo theme for one-page sites. Loosely based on [salcangeloso.com](https://salcangeloso.com).
+A simple Hugo theme for simple sites. Loosely based on [salcangeloso.com](https://salcangeloso.com).
 
-All unnecessary elements stripped out. 
+Practically all unnecessary elements stripped out. Ideal for use as a single page site (example, lander, etc.) or for a minimalist blog. Some Hugo niceties (like partial templates) were stripped out for simplification purposes.
 
-Ideal for use as a single page site (example, lander, etc.).
+## Customizing
 
-Adjust the custom.css for additional styling. Normalize.css and Skeleton.css.
+Adjust the custom.css for additional styling. Normalize.css and Skeleton.css were used for predictable behavior.
 
 ## Clone to Your Theme Directory:
 
