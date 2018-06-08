@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+<head>
+<meta charset="utf-8">
+{{ .Hugo.Generator }}
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="//fonts.googleapis.com/css?family=Open+Sans:400,800" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/github.min.css">
+<link rel="stylesheet" href="/css/normalize.css">
+<link rel="stylesheet" href="/css/skeleton.css">
+<link rel="stylesheet" href="/css/custom.css">
+<title>Put Meta Title</title>
+</head>
+<body>
+
+<div class="container">
+
+	<header role="banner">
+	<h1>Put Website Title</h1>
+	</header>
+<main role="main">
+
+
+
+  <h1>Tag: {{ .Title }}</h1>
+  {{ .Content }}
+  <ul class="list-pages">
+    {{ range .Data.Pages }}
+      <li class="lh-copy"><a href="{{ .Permalink | relURL }}" class="link f5">{{ .Title }}</a> - <time>{{ .Date.Format "January 02, 2006" }}</time></li>
+    {{ end }}
+  </ul>
+</main>
+
+    	<footer role="contentinfo">
+		<div class="hr"></div>
+		<div class="footer-link">
+			<a href="mailto:test@test.com" target="_blank">Email</a> / <a href="https://salcangeloso.com">Site</a>
+		</div>
+		<div class="copyright">Copyright &copy; 2018</div>
+	</footer>
+
+</div>
+
+</body>
+</html>
