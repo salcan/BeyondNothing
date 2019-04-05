@@ -3,9 +3,11 @@ title = "About"
 description = "Team collaboration driven cloud developer and front end architect"
 date = "2019-04-04"
 aliases = ["about-us","about-hugo","contact"]
-author = "Hugo Authors"
+author = "Jay Landro"
 +++
 
+# How I got here
+20 years as a user interface developer. JS, cold development, dev
 Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 
 Hugo makes use of a variety of open source projects including:
@@ -27,5 +29,5 @@ Learn more and contribute on [GitHub](https://github.com/gohugoio).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIwNDU4NzMxLDEwMDYzMTY0MTVdfQ==
+eyJoaXN0b3J5IjpbMjA3NzIwMjMzNiwxMDA2MzE2NDE1XX0=
 -->
