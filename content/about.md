@@ -1,7 +1,7 @@
 +++
 title = "About"
 description = "Team collaboration driven cloud developer and front end architect"
-date = "2019-0-"
+date = "2019-04-04"
 aliases = ["about-us","about-hugo","contact"]
 author = "Jay Landro"
 +++
@@ -29,6 +29,6 @@ Learn more and contribute on [GitHub](https://github.com/gohugoio).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMTA5Mjc4MiwtMTg3NDI2NzM0MywxMD
-A2MzE2NDE1XX0=
+eyJoaXN0b3J5IjpbMTcyNTA5NjI5NiwtMzAxMDkyNzgyLC0xOD
+c0MjY3MzQzLDEwMDYzMTY0MTVdfQ==
 -->
