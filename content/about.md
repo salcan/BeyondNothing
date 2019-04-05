@@ -1,7 +1,7 @@
 +++
 title = "About"
-description = "Hugo, the world’s fastest framework for building websites"
-date = "2019-02-28"
+description = "Team collaboration driven cloud developer and front end architect"
+date = "2019-04-04"
 aliases = ["about-us","about-hugo","contact"]
 author = "Hugo Authors"
 +++
@@ -27,5 +27,5 @@ Learn more and contribute on [GitHub](https://github.com/gohugoio).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNjMxNjQxNV19
+eyJoaXN0b3J5IjpbNzIwNDU4NzMxLDEwMDYzMTY0MTVdfQ==
 -->
