@@ -7,7 +7,7 @@ author = "Jay Landro"
 +++
 
 # How I got here 2019
-I have spent 20 years as a user interface developerEnabling companiesJS, cloud development, devops, observables.
+I have spent 20 years as a user interface developer, enabling companies as large as SAP to companies of only 1 or 2 principles to unblock their potential. Using told JS, cloud development, devops, observables.
 Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 
 Hugo makes use of a variety of open source projects including:
@@ -29,7 +29,7 @@ Learn more and contribute on [GitHub](https://github.com/gohugoio).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ0OTkwMDQ3LDIzMDMyOTk1MiwxNzI1MD
-k2Mjk2LC0zMDEwOTI3ODIsLTE4NzQyNjczNDMsMTAwNjMxNjQx
-NV19
+eyJoaXN0b3J5IjpbMTEwODk0ODUwOCwyMzAzMjk5NTIsMTcyNT
+A5NjI5NiwtMzAxMDkyNzgyLC0xODc0MjY3MzQzLDEwMDYzMTY0
+MTVdfQ==
 -->
