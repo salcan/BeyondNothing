@@ -12,9 +12,9 @@ I have spent 20 years as a user interface developer, enabling companies as large
 ## Timeline
 2017-Current
 *Protolabs*
-
+Industry leader in prototyping & on-demand manufacturing visioned a
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYzMTQ4MTIwLDIzMDMyOTk1MiwxNzI1MD
+eyJoaXN0b3J5IjpbLTUwNTQwNDA2LDIzMDMyOTk1MiwxNzI1MD
 k2Mjk2LC0zMDEwOTI3ODIsLTE4NzQyNjczNDMsMTAwNjMxNjQx
 NV19
 -->
