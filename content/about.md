@@ -11,10 +11,10 @@ I have spent  aface developer, eEnabling companies as large as SAP to companies 
 
 ## Timeline
 2017-Current
-##Protolabs*
+#### Protolabs
 Industry leader in prototyping & on-demand manufacturing visioned a platform enabling them to add new manufacturing services and offerings at a rapidly growing pace. My work on the experience platform involved developing a npm based design system for ultimate component reusability, dockerizing all of their dotnet core and node based API applications. I also lead the internationalization translation and localization efforts. As front end architect I enabled rapid continuous deployment of individual teams for near immediate feedback and agility.
 
-*Unisys*JS, cloud development, devops, observables.
+*#### Unisys*JS, cloud development, devops, observables.
 Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 
 Hugo makes use of a variety of open source projects including:
@@ -33,10 +33,11 @@ Websites built with Hugo are extremelly fast, secure and can be deployed anywher
 
 Learn more and contribute on [GitHub](https://github.com/gohugoio).
 
+Leading a team of 5 developers.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMzA2NDY1OCwtMTM5ODYzNDI1NSwyMz
-AzMjk5NTIsMTcyNTA5NjI5NiwtMzAxMDkyNzgyLC0xODc0MjY3
-MzQzLDEwMDYzMTY0MTVdfQ==
+eyJoaXN0b3J5IjpbLTUwMjczMTYwNSwxOTIzMDY0NjU4LDIzMD
+MyOTk1MiwxNzI1MDk2Mjk2LC0zMDEwOTI3ODIsLTE4NzQyNjcz
+NDMsMTAwNjMxNjQxNV19
 -->
