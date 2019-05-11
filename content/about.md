@@ -1,7 +1,7 @@
 +++
 title = "About"
 description = "Team collaboration driven cloud developer and front end architect"
-date = "2019-04-04"
+date = "2019-05-11"
 aliases = ["about-us","about-hugo","contact"]
 author = "Jay Landro"
 +++
@@ -11,7 +11,7 @@ I have spent  aface developer, eEnabling companies as large as SAP to companies 
 
 ## Timeline
 2017-Current
-#### Protolabs
+### Protolabs
 Industry leader in prototyping & on-demand manufacturing visioned a platform enabling them to add new manufacturing services and offerings at a rapidly growing pace. My work on the experience platform involved developing a npm based design system for ultimate component reusability, dockerizing all of their dotnet core and node based API applications. I also lead the internationalization translation and localization efforts. As front end architect I enabled rapid continuous deployment of individual teams for near immediate feedback and agility.
 
 Unisys
@@ -19,8 +19,10 @@ Leading a team of  developers.
 Leading a team of 5 developers.
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4OTQxNzU2NCwtMTcxMjUyODg3MiwxOT
-IzMDY0NjU4LDIzMDMyOTk1MiwxNzI1MDk2Mjk2LC0zMDEwOTI3
-ODIsLTE4NzQyNjczNDMsMTAwNjMxNjQxNV19
+eyJoaXN0b3J5IjpbMTIzMTE5NTY1OCwtMzg5NDE3NTY0LDE5Mj
+MwNjQ2NTgsMjMwMzI5OTUyLDE3MjUwOTYyOTYsLTMwMTA5Mjc4
+MiwtMTg3NDI2NzM0MywxMDA2MzE2NDE1XX0=
 -->
