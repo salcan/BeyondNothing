@@ -12,9 +12,9 @@ I have spent 20 years as a user interface developer, enabling companies as large
 ## Timeline
 2017-Current
 *Protolabs*
-Industry leader in prototyping & on-demand manufacturing visioned a platform enabling them to add new manufacturing services and offerings at a rapidly growing pace. My work on the experience
+Industry leader in prototyping & on-demand manufacturing visioned a platform enabling them to add new manufacturing services and offerings at a rapidly growing pace. My work on the experience platform involved developing a npm based design system for ultimate component reusability, dockerizing all of their dotnet core and node
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNDg4ODk4NywyMzAzMjk5NTIsMTcyNT
-A5NjI5NiwtMzAxMDkyNzgyLC0xODc0MjY3MzQzLDEwMDYzMTY0
-MTVdfQ==
+eyJoaXN0b3J5IjpbLTEzNzIzNzcxNzUsMjMwMzI5OTUyLDE3Mj
+UwOTYyOTYsLTMwMTA5Mjc4MiwtMTg3NDI2NzM0MywxMDA2MzE2
+NDE1XX0=
 -->
