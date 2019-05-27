@@ -10,10 +10,13 @@ Adjust the custom.css for additional styling. Normalize.css and Skeleton.css wer
 
 ## Clone to Your Theme Directory:
 
-	$ git clone git@github.com:jaylandro/hardworking.tech.git
+	$ git clone git@https://github.com:jaylandro/hardworking.tech.git/salcan/BeyondNothing.git themes/beyondnothing
     
 	$ hugo server --theme=BeyondNothing --buildDrafts --watch
     
 ## License
 
 MIT
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTI5NzI2NTg2XX0=
+-->
