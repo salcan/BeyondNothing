@@ -1,7 +1,7 @@
 +++
 title = "About"
 description = "Team collaboration driven cloud developer and front end architect"
-date = "2019-05-11"
+date = "2019-05-27"
 aliases = ["about-us","about-hugo","contact"]
 author = "Jay Landro"
 +++
@@ -25,10 +25,6 @@ As a consultant at sdg, I have had a variety of opportunities to Architect, buil
 ### Protolabs  — Frontend Architect 2017-2019
 
 > Developed, architected and led a team of 20 developers (Front-end and C# developers) in building a cutting edge digital commerce system for On-demand manufacturing company PRotolabs. The system is composed of native web components, micro-services, Vue, dotnet core and Docker. Instrumental in implementing Docker Swarm, continuous integration and continuous deployment.
-
-<p>
-&nbsp;
-</p>
 
 #### Problems Solved
 
