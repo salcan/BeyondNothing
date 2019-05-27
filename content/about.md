@@ -8,15 +8,15 @@ author = "Jay Landro"
 
 ## Jay Landro 2019
 
-> Compassionate team developer with 20 years experience. Highly skilled in devops, cloud/serverless development and front-end mastery. 
+Compassionate team developer with 20 years experience. Highly skilled in devops, cloud/serverless development and front-end mastery. 
 
-> Jay has extensive knowledge of front end processes and is quite honestly the smartest front-end guru I've
+"Jay has extensive knowledge of front end processes and is quite honestly the smartest front-end guru I've
 ever worked with. He always has a plethora of recommendations on any given front-endy subject. He is
 always very vocal in meetings and brings his best ideas forward helping the entire team excel, and often
 times helping the team accomplish a task easier than was initially thought. Jay is constantly pulled aside to
 help other team members, in fact he and I have a meeting scheduled today to pair up - he's a team player
 and does a great job at helping others. He actively reaches out to help other team members when they are
-stuck on something, and he does a great job helping on-board new team members.
+stuck on something, and he does a great job helping on-board new team members."
 
 ### Senior Consultant — Solution Design Group 2014-Current
 
