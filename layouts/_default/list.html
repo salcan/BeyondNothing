@@ -25,18 +25,20 @@
   <h1>Tag: {{ .Title }}</h1>
   {{ .Content }}
   <ul class="list-pages">
-    {{ range .Data.Pages }}
+    {{ range .Site.RegularPages }}
       <li class="lh-copy"><a href="{{ .Permalink | relURL }}" class="link f5">{{ .Title }}</a> - <time>{{ .Date.Format "January 02, 2006" }}</time></li>
     {{ end }}
   </ul>
+  
+  {{ $paginator := .Paginate ( where .Site.RegularPages "Type" "post" ) 10 }}
 </main>
 
     	<footer role="contentinfo">
 		<div class="hr"></div>
 		<div class="footer-link">
-			<a href="mailto:test@test.com" target="_blank">Email</a> / <a href="https://salcangeloso.com">Site</a>
+			<a href="mailto:test@test.com" target="_blank">Email</a> / <a href="https://cloudconfusing.com">Site</a>
 		</div>
-		<div class="copyright">Copyright &copy; 2018</div>
+		<div class="copyright">Copyright &copy; 2019</div>
 	</footer>
 
 </div>
