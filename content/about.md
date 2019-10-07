@@ -18,6 +18,17 @@ help other team members, in fact he and I have a meeting scheduled today to pair
 and does a great job at helping others. He actively reaches out to help other team members when they are
 stuck on something, and he does a great job helping on-board new team members."
 
+### Senior Software Engineer — Mode Analytics
+
+Mode is a powerful, collaborative analytics platform designed by and for, analysts. Armed with tightly integrated SQL, Python, and interactive data visualization tools, analysts use Mode to turn data into actionable insights in one, central location. Simple sharing tools let people throughout your organization access dashboards tailored to their needs and explore underlying data on their own. With everyone analyzing and collaborating on consistent data within the same platform, every department is able to quicken the pace at which they make brilliant decisions.
+
+#### Problems Solved
+
+* Develop our core web applications for data analysts and business users
+* Define and maintain development practices that let us move fast with quality
+* Work with a wide range of tools and technologies (from SQL to Javascript)
+* Determine priorities by estimating the potential impact of projects
+
 ### Senior Consultant — Solution Design Group 2014-Current
 
 As a consultant at sdg, I have had a variety of opportunities to Architect, build and collaborate with a wide variety of team members stretching the globe. The various clients I have had at sdg have exposed me to a wide breadth of enterprise technologies, platforms and eco-systems. The clients I produced work for are listed below. 

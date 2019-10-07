@@ -77,3 +77,11 @@ h2 {
 .entry-meta {
   margin-bottom: 50px;
 }
+
+.site-title {
+	margin-bottom: 0;
+}
+h3.site-sub-title {
+	margin-top: 8px;
+	letter-spacing: .1rem;
+}
