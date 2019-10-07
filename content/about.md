@@ -1,7 +1,7 @@
 +++
 title = "About"
 description = "Team collaboration driven cloud developer and front end architect"
-date = "2019-05-27"
+date = "2019-10-07"
 aliases = ["about-us","about-hugo","contact"]
 author = "Jay Landro"
 +++
@@ -119,8 +119,3 @@ As a consultant at sdg, I have had a variety of opportunities to Architect, buil
 * ColdFusion
 * HTML, CSS, JavaScript
 * Adobe Suite How I got here 2019
-I have spent 20 years as a user interface developer, enabling companies as large as SAP to companies of only 1 or 2 principles to unblock their potential. Utilizing tools such as JavaScript, cloud development, devops, Java, Docker & .NET core.
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUzNDY0NjQ2XX0=
--->

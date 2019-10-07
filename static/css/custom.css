@@ -68,11 +68,10 @@ hr {
   background: #ddd;
 }
 
-h2 {
-  margin-top: 20px;
-  margin-bottom: 5px;
-
-}
+/* .container h1 {
+	border-bottom: 3px solid #FAFF63;
+	box-shadow: inset 0 -4px 0 #FAFF63;
+} */
 
 .entry-meta {
   margin-bottom: 50px;
