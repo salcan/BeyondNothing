@@ -18,20 +18,42 @@ tags = [
 <br>
 [The Van de Graaf Canon](https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon)
 
-## Mane refeci capiebant unda mulcebat
+## What is a _static_ API?
 
-Victa caducifer, malo vulnere contra
-dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere
-furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. **Faces illo pepulere** tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.
+A static API is any data stored in a flat file that is consumed and processed by a front end or back end application. The most common combination, with the ubiquity of JSON in restful APIs, is JSON files consumed via http and parsed the same as a standard API response in the consuming application. These could also be XML, CSV, TXT or even Excel files :P
 
-Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli
-Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare
-Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert
-ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae
-vulnus haerentia iuste et exercebat, sui et.
+### Let's look at an example
 
-Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel **mitis temploque** vocatus, inque alis, *oculos nomen* non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem
-Propoetides **parte**.
+```
+// industries.json
+
+{
+    data: [
+        "Aerospace",
+        "Medical",
+        "Manufacturing",
+        "Service"
+    ]
+}
+```
+
+This totally simplistic example actually serces a very real issue in most companies. A single source of truth for simple business logic. What verticals do we work with? 
+
+By storing this data in **Source Control** (git) members of different teams consuming this data can review the proposed change (Pull Request) and make any changes necessary in the consuming apllication.
+
+Let's consume our sweet new static API via **fetch**
+[ TODO: insert netlify url in future]
+```
+fetch('https://static-api-revolution.netlify.com/industries.json')
+.then(res => {
+    if (!res.ok)
+        throw Error('Fetch failed', err)
+    return res.json();
+})
+.then(data => alert(data.data))
+.catch(err => cosnole.error(`Sad trombone:${err}`))
+```
+
 
 <style>
 .canon { background: white; width: 100%; height: auto;}
