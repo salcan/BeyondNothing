@@ -37,9 +37,9 @@ A static API is any data stored in a flat file that is consumed and processed by
 }
 ```
 
-This totally simplistic example actually serces a very real issue in most companies. A single source of truth for simple business logic. What verticals do we work with? 
+This totally simplistic example surfaces a very real issue in many companies, a single source of truth for simple business logic such as "which verticals do we do business with"? 
 
-By storing this data in **Source Control** (git) members of different teams consuming this data can review the proposed change (Pull Request) and make any changes necessary in the consuming apllication.
+By storing this data in **Source Control** (git) members of different teams consuming this data can review the proposed change (Pull Request) and make any changes necessary in the consuming application.
 
 Let's consume our sweet new static API via **fetch**
 [ TODO: insert netlify url in future]
