@@ -1,33 +1,113 @@
----
+## Jay Landro 2019
 
+Compassionate team developer with 20 years experience. Highly skilled in devops, cloud/serverless development and front-end mastery. 
 
----
+"Jay has extensive knowledge of front end processes and is quite honestly the smartest front-end guru I've
+ever worked with. He always has a plethora of recommendations on any given front-endy subject. He is
+always very vocal in meetings and brings his best ideas forward helping the entire team excel, and often
+times helping the team accomplish a task easier than was initially thought. Jay is constantly pulled aside to
+help other team members, in fact he and I have a meeting scheduled today to pair up - he's a team player
+and does a great job at helping others. He actively reaches out to help other team members when they are
+stuck on something, and he does a great job helping on-board new team members."
 
-<p>+++<br>
-title = “About”<br>
-description = “Team collaboration driven cloud developer and front end architect”<br>
-date = “2019-04-04”<br>
-aliases = [“about-us”,“about-hugo”,“contact”]<br>
-author = “Jay Landro”<br>
-+++</p>
-<h1 id="how-i-got-here-2019">How I got here 2019</h1>
-<p>I have spent  aface developer, eEnabling companies as large as SAP to companies of only 1 or 2 principles to unblock their potential. Utilizing tools such as JavaScript, cloud development, devops, Java, Docker &amp; .NET core.</p>
-<h2 id="timeline">Timeline</h2>
-<p>2017-Current<br>
-##Protolabs*<br>
-Industry leader in prototyping &amp; on-demand manufacturing visioned a platform enabling them to add new manufacturing services and offerings at a rapidly growing pace. My work on the experience platform involved developing a npm based design system for ultimate component reusability, dockerizing all of their dotnet core and node based API applications. I also lead the internationalization translation and localization efforts. As front end architect I enabled rapid continuous deployment of individual teams for near immediate feedback and agility.</p>
-<p><em>Unisys</em>JS, cloud development, devops, observables.<br>
-Written in Go, Hugo is an open source static site generator available under the <a href="https://github.com/gohugoio/hugo/blob/master/LICENSE">Apache Licence 2.0.</a> Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.</p>
-<p>Hugo makes use of a variety of open source projects including:</p>
-<ul>
-<li><a href="https://github.com/russross/blackfriday">https://github.com/russross/blackfriday</a></li>
-<li><a href="https://github.com/alecthomas/chroma">https://github.com/alecthomas/chroma</a></li>
-<li><a href="https://github.com/muesli/smartcrop">https://github.com/muesli/smartcrop</a></li>
-<li><a href="https://github.com/spf13/cobra">https://github.com/spf13/cobra</a></li>
-<li><a href="https://github.com/spf13/viper">https://github.com/spf13/viper</a></li>
-</ul>
-<p>Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.</p>
-<p>Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.</p>
-<p>Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.</p>
-<p>Learn more and contribute on <a href="https://github.com/gohugoio">GitHub</a>.</p>
+### Senior Software Engineer — Mode Analytics
 
+Mode is a powerful, collaborative analytics platform designed by and for, analysts. Armed with tightly integrated SQL, Python, and interactive data visualization tools, analysts use Mode to turn data into actionable insights in one, central location. Simple sharing tools let people throughout your organization access dashboards tailored to their needs and explore underlying data on their own. With everyone analyzing and collaborating on consistent data within the same platform, every department is able to quicken the pace at which they make brilliant decisions.
+
+#### Problems Solved
+
+* Develop our core web applications for data analysts and business users
+* Define and maintain development practices that let us move fast with quality
+* Work with a wide range of tools and technologies (from SQL to Javascript)
+* Determine priorities by estimating the potential impact of projects
+
+### Senior Consultant — Solution Design Group 2014-Current
+
+As a consultant at sdg, I have had a variety of opportunities to Architect, build and collaborate with a wide variety of team members stretching the globe. The various clients I have had at sdg have exposed me to a wide breadth of enterprise technologies, platforms and eco-systems. The clients I produced work for are listed below. 
+
+### Protolabs  — Frontend Architect 2017-2019
+
+> Developed, architected and led a team of 20 developers (Front-end and C# developers) in building a cutting edge digital commerce system for On-demand manufacturing company PRotolabs. The system is composed of native web components, micro-services, Vue, dotnet core and Docker. Instrumental in implementing Docker Swarm, continuous integration and continuous deployment.
+
+#### Problems Solved
+
+* Enterprise wide UI component library delivered via npm
+* Universal i18n library automating translations via Transifex and centralizing region, currency and address formatting.
+* Implemented over 340 Javascript unit tests and headless integration tests using Jest & Nightmare, automated via Dockerized build pipeline in TFS
+
+#### Technologies Used
+
+* Vue, Vuex, Vue-i18n and Vue Router
+* Jest, Nightmare and Puppeteer
+* dotnet core, dotnet scripts, Roundhouse migrations
+* Segment, Fullstory, Cloudflare, Azure, Dell Boomi, Rabbit MQ
+* Docker, Docker Swarm, Portainer and Traefik
+* Bash, Yaml, Powershell and VS Code
+
+### Unisys  — Frontend Architect/Developer Lead 2016-2018
+
+> Constructed a team of 6 developers and 1 UI/UX designer to meet an extremely aggressive timeline of 1 year to deliver a interactive canvas based desktop application for securing Stealth enabled government networks using Electron & React. This application went on to win multiple awards for Design & User experience
+
+#### Problems Solved
+
+* Architect a desktop application using web technologies that can run offline and scale to multi-tenant Cloud based deployments with minimal re-work.
+* Educating a team of 5 front-end developers React, ES6/7 and Electron who had never worked with the technologies previously.
+* Knowledge transfer via Markdown documentation, Video tutorials and in person trainings.
+
+#### Technologies Used
+
+* React, MobX & Sigma.js
+* C++, Node, Node native modules & Sequelize
+* Ava unit testing and Spectron e2e testing
+* SQLite, Electron, Git & Jenkins
+* SASS, SVG and Figma
+
+### NYU  — Frontend Developer 2015-2017
+
+> Built NYU's very first responsive property, the internal student portal NYUHome. In collaboration with designers, Java developers and architects and a solution architect, we exceeded expectations every step of the way, delivering the solution on schedule and on brand.
+
+#### Problems Solved
+
+* Building on the Java heavy Liferay portal, delivered a responsive Single Page Application with integrations to Google, Shibboleth and Elk stack for analytics.
+* Partnered in multiple accessibility audits, enabling automated accesibility testing via Jenkins and Deque's AxE testing library which is now part of Google's Lighthouse.
+* Developed custom analytics stack creating an innovative front end framework for fire and forget tracking to the Elastic, Logstash and Kibana stack.
+* Built SCSS standards library for responsive mixins and color/SVG icon generation.
+ 
+#### Technologies Used
+
+* Java Spring Framework, MySQL
+* AUI/YUI MVC framework
+* Bash, Sublime Text, Git & SSH
+* Google APIs for Calendar, Docs and Email
+* OAuth 2, OpenID connect Shibboleth
+* SVG, AxE, Jenkins, Maven and Ant
+* Grunt, SCSS, SVG generation, Adobe Illustrator
+ 
+
+### Front End Developer — Sportsdigita 2013-2014
+
+> Produced over 20 micro-sites, interactive quizzes and 360 degree sales decks for the worlds leading sports teams across the NHL, NFL, NBA, MLB delivering one of a kind media-rich immersive experiences for users.
+
+#### Problems Solved
+* Refactoring micro-site Javascript and Zend framework PHP code for fast build out cycles and optimized for newer browsers.
+* On-boarded 4 new developers
+* Delivered full screen media rich experiences on extremely tight timelines with high pressure work environment.
+
+#### Technologies used
+* Zend framework 2/3
+* jQuery, Backbone, Angular, MongoDB
+* SASS, Ant, Grunt, Gulp
+
+### Front End Developer — Paid.com 2008-2013
+
+> Custom e-commerce implementations for over 30 of the worlds most recognized bands and brands including Stand Up to Cancer, One Direction, Aerosmith, Slayer & Mastadon
+
+#### Problems Solved
+* Restructure and scalability overhall of custom ColdFusion based e-commerce templating system
+* Integrations with real time shipping APIs
+* Caching and static site solutions for high traffic spikes
+
+#### Technologies used
+* ColdFusion
+* HTML, CSS, JavaScript
+* Adobe Suite
