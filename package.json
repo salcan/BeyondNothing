@@ -1,0 +1,23 @@
+{
+  "name": "hardworking.tech",
+  "version": "1.0.0",
+  "description": "Blog & Portfolio of Developer Jay Landro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaylandro/hardworking.tech.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaylandro/hardworking.tech/issues"
+  },
+  "homepage": "https://github.com/jaylandro/hardworking.tech#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.10.0"
+  }
+}
