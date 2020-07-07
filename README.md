@@ -2,6 +2,8 @@
 
 A simple Hugo theme for simple sites. Loosely based on [salcangeloso.com](https://salcangeloso.com).
 
+![Screenshot](images/tn.png)
+
 Practically all unnecessary elements stripped out. Ideal for use as a single page site (example, lander, etc.) or for a minimalist blog. Some Hugo niceties (like partial templates) were stripped out for simplification purposes.
 
 ## Customizing
